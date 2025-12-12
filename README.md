@@ -11,3 +11,5 @@ Data Preprocessing: Preprocessing steps that were performed to prepare the data 
 Algorithms that has been used are:
 1.	K-Nearest Neighbors (classification): A supervised learning algorithm used for classification which predicts the class based on the majority class of the nearest neighbors.
 2.	K-Means (clustering): An unsupervised learning algorithm which groups the data into two clusters to analyze natural separation between malignant and benign cases.
+
+Model Evaluation: The KNN model was evaluated on the testing dataset using the following performance metrics: Accuracy: 0.9649, Precision: 0.9535, Recall: 0.9535, F1-Score: 0.9535. The high accuracy, balanced precision and recall values indicate that the KNN classifier performs very well. K-Means clustering also demonstrated meaningful separation of the two classes supporting the dataset’s strong inherent structure.
